@@ -1,0 +1,28 @@
+{
+  "name": "lockdownlearning",
+  "version": "1.0.0",
+  "description": "Tutor finding website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "lockdown",
+    "learning",
+    "tutor",
+    "tutoring",
+    "alevel",
+    "a-level",
+    "a level",
+    "alevels",
+    "a-levels",
+    "a levels",
+    "gcse",
+    "gcses"
+  ],
+  "author": "Caleb Tham",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
