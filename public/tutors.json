@@ -10,18 +10,8 @@
         "image": "blankpp.jpg"
     },
     {
-        "name": "Hugo D",
-        "subjects": "Mathematics, Economics (A-Level or GCSE)",
-        "qualifications": "A",
-        "email": "@@",
-        "phoneNo": "44",
-        "role": "Co-founder, XXX and Tutor",
-        "price": "£20 per hour",
-        "image": "blankpp.jpg"
-    },
-    {
         "name": "Caleb Tham",
-        "subjects": "Mathematics, Physics, Computer Science (A-Level or GCSE)",
+        "subjects": "Further Mathematics, Mathematics, Physics, Computer Science (A-Level or GCSE)",
         "qualifications": "A*A*A*A* (Further Mathematics, Mathematics, Physics, Computer Science)",
         "email": "calebtham02@gmail.com",
         "phoneNo": "07975706885",
@@ -30,43 +20,53 @@
         "image": "blankpp.jpg"
     },
     {
-        "name": "Una Mracajac",
-        "subjects": "Economics, Spanish (A-Level or GCSE)",
-        "qualifications": "A",        
+        "name": "Hugo del Vecchio",
+        "subjects": "Further Mathematics, Mathematics, Economics (A-Level or GCSE)",
+        "qualifications": "A*A*A (Further Mathematics, Mathematics, Economics)",
         "email": "@@",
         "phoneNo": "44",
-        "role": "Co-founder, XXX and Tutor",
-        "price": "£15 per hour",
+        "role": "Co-founder and Tutor",
+        "price": "£20 per hour",
+        "image": "blankpp.jpg"
+    },
+    {
+        "name": "Una Mracajac",
+        "subjects": "Economics, Spanish (A-Level or GCSE)",
+        "qualifications": "A*A*A* (Economics, Spanish, Geography)",        
+        "email": "@@",
+        "phoneNo": "44",
+        "role": "Co-founder and Tutor",
+        "price": "£20 per hour",
         "image": "blankpp.jpg"
     },
     {
         "name": "Thom Barnes-Wise",
-        "subjects": "English, History, Politics (A-Level or GCSE)",
-        "qualifications": "A",
-        "email": "@@",
-        "phoneNo": "44",
-        "role": "Co-founder, XXX and Tutor",
-        "price": "£15 per hour",
+        "subjects": "English, History (A-Level or GCSE)",
+        "qualifications": "A*A*A (English, Psychology, History)",
+        "email": "tbarneswise@yahoo.com",
+        "phoneNo": "07419778290",
+        "role": "Co-founder and Tutor",
+        "price": "£20 per hour",
         "image": "blankpp.jpg"
     },
     {
         "name": "Dan Risk",
         "subjects": "Mathematics, Computer Science (A-Level or GCSE)",
-        "qualifications": "A",
+        "qualifications": "A*AAA (Mathematics, Further Mathematics, Physics, Computer Science)",
         "email": "@@",
         "phoneNo": "44",
         "role": "Co-founder and Tutor",
-        "price": "£13 per hour",
+        "price": "£17 per hour",
         "image": "blankpp.jpg"
     },
     {
         "name": "Sara Drummond-Curtis",
-        "subjects": "Mathematics (A-Level or GCSE)",
+        "subjects": "Further Mathematics, Mathematics (A-Level or GCSE)",
         "qualifications": "A",
         "email": "@@",
         "phoneNo": "44",
         "role": "Tutor",
-        "price": "£10 per hour",
+        "price": "£12 per hour",
         "image": "blankpp.jpg"
     },
     {
@@ -76,7 +76,7 @@
         "email": "@@",
         "phoneNo": "44",
         "role": "Tutor",
-        "price": "£10 per hour",
+        "price": "£12 per hour",
         "image": "blankpp.jpg"
     },
     {
@@ -86,7 +86,7 @@
         "email": "@@",
         "phoneNo": "44",
         "role": "Tutor",
-        "price": "£10 per hour",
+        "price": "£12 per hour",
         "image": "blankpp.jpg"
     }
 ]
