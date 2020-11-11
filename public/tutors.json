@@ -66,7 +66,7 @@
         "email": "@@",
         "phoneNo": "44",
         "role": "Tutor",
-        "price": "£12 per hour",
+        "price": "£15 per hour",
         "image": "blankpp.jpg"
     },
     {
@@ -76,7 +76,7 @@
         "email": "@@",
         "phoneNo": "44",
         "role": "Tutor",
-        "price": "£12 per hour",
+        "price": "£15 per hour",
         "image": "blankpp.jpg"
     },
     {
@@ -86,7 +86,7 @@
         "email": "@@",
         "phoneNo": "44",
         "role": "Tutor",
-        "price": "£12 per hour",
+        "price": "£15 per hour",
         "image": "blankpp.jpg"
     }
 ]
