@@ -16,7 +16,7 @@
         "email": "calebtham02@gmail.com",
         "phoneNo": "07975706885",
         "role": "Co-founder, CTO and Tutor",
-        "price": "£21 per hour",
+        "price": "£22 per hour",
         "image": "blankpp.jpg"
     },
     {
@@ -62,11 +62,11 @@
     {
         "name": "Sara Drummond-Curtis",
         "subjects": "Further Mathematics, Mathematics (A-Level or GCSE)",
-        "qualifications": "A*AA",
+        "qualifications": "A*A*A",
         "email": "saradrummondcurtis@gmail.com",
         "phoneNo": "07317384931",
         "role": "Tutor",
-        "price": "£15 per hour",
+        "price": "£18 per hour",
         "image": "blankpp.jpg"
     },
     {
@@ -76,7 +76,7 @@
         "email": "kirstenMF2@gmail.com",
         "phoneNo": "07731843201",
         "role": "Tutor",
-        "price": "£15 per hour",
+        "price": "£16 per hour",
         "image": "blankpp.jpg"
     },
     {
@@ -86,7 +86,7 @@
         "email": "ali.tabba1@gmail.com",
         "phoneNo": "07546456451",
         "role": "Tutor",
-        "price": "£16 per hour",
+        "price": "£18 per hour",
         "image": "blankpp.jpg"
     },
     {
@@ -96,7 +96,7 @@
         "email": "james-law23@gmail.com",
         "phoneNo": "07947853966",
         "role": "Tutor",
-        "price": "£18 per hour",
+        "price": "£20 per hour",
         "image": "blankpp.jpg"
     }
 ]
