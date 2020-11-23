@@ -23,8 +23,8 @@
         "name": "Hugo del Vecchio",
         "subjects": "Further Mathematics, Mathematics, Economics (A-Level or GCSE)",
         "qualifications": "A*A*A (Further Mathematics, Mathematics, Economics)",
-        "email": "@@",
-        "phoneNo": "44",
+        "email": "hugodv1@hotmail.com",
+        "phoneNo": "07825148129",
         "role": "Co-founder and Tutor",
         "price": "£20 per hour",
         "image": "blankpp.jpg"
@@ -33,8 +33,8 @@
         "name": "Una Mracajac",
         "subjects": "Economics, Spanish (A-Level or GCSE)",
         "qualifications": "A*A*A* (Economics, Spanish, Geography)",        
-        "email": "@@",
-        "phoneNo": "44",
+        "email": "unmracajac2@gmail.com",
+        "phoneNo": "07460544451",
         "role": "Co-founder and Tutor",
         "price": "£20 per hour",
         "image": "blankpp.jpg"
@@ -53,8 +53,8 @@
         "name": "Dan Risk",
         "subjects": "Mathematics, Computer Science (A-Level or GCSE)",
         "qualifications": "A*AAA (Mathematics, Further Mathematics, Physics, Computer Science)",
-        "email": "@@",
-        "phoneNo": "44",
+        "email": "danrisk10@gmail.com",
+        "phoneNo": "07882190967",
         "role": "Co-founder and Tutor",
         "price": "£20 per hour",
         "image": "blankpp.jpg"
@@ -62,9 +62,9 @@
     {
         "name": "Sara Drummond-Curtis",
         "subjects": "Further Mathematics, Mathematics (A-Level or GCSE)",
-        "qualifications": "A",
-        "email": "@@",
-        "phoneNo": "44",
+        "qualifications": "A*AA",
+        "email": "saradrummondcurtis@gmail.com",
+        "phoneNo": "07317384931",
         "role": "Tutor",
         "price": "£15 per hour",
         "image": "blankpp.jpg"
@@ -72,9 +72,9 @@
     {
         "name": "Kirsten Marner-Foley",
         "subjects": "Politics (A-Level or GCSE)",
-        "qualifications": "A",
-        "email": "@@",
-        "phoneNo": "44",
+        "qualifications": "A*AA",
+        "email": "kirstenMF2@gmail.com",
+        "phoneNo": "07731843201",
         "role": "Tutor",
         "price": "£15 per hour",
         "image": "blankpp.jpg"
@@ -82,9 +82,19 @@
     {
         "name": "Ali Tabba",
         "subjects": "Economics (A-Level or GCSE)",
-        "qualifications": "A",
-        "email": "@@",
-        "phoneNo": "44",
+        "qualifications": "A*AA",
+        "email": "ali.tabba1@gmail.com",
+        "phoneNo": "07546456451",
+        "role": "Tutor",
+        "price": "£15 per hour",
+        "image": "blankpp.jpg"
+    }
+    {
+        "name": "James Law",
+        "subjects": "Economics (A-Level or GCSE)",
+        "qualifications": "A*AA",
+        "email": "james-law23@gmail.com",
+        "phoneNo": "07947853966",
         "role": "Tutor",
         "price": "£15 per hour",
         "image": "blankpp.jpg"
