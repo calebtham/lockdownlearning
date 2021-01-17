@@ -27,7 +27,6 @@ const outputHTML = matches => {
         quickSort(matches,0,matches.length-1);
         const html = matches.map(match => `
                 <div class=card>
-                    <img src="images/${match.image}" alt="${match.name}">
                     <h3>${match.name}</h3> <br>
                     <h4>Subjects Teaching: ${match.subjects}</h4> <br>
                     <h4>A-Levels Achieved: ${match.qualifications}</h4> <br>
@@ -89,4 +88,3 @@ function quickSort(matches, left, right) {
     }
     return matches;
 }
-

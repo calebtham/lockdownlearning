@@ -11,7 +11,6 @@ const outputHTML = tutors => {
         quickSort(tutors,0,tutors.length-1);
         const html = tutors.map(tutor => `
             <div class=card>
-                <img src="../images/${tutor.image}" alt="${tutor.name}">
                 <h3>${tutor.name}</h3> <br>
                 <h4>Subjects Teaching: ${tutor.subjects}</h4> <br>
                 <h4>A-Levels Achieved: ${tutor.qualifications}</h4> <br>

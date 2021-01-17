@@ -17,7 +17,6 @@ const outputHTML = teammates => {
 
         const html = teammates.map(teammate => `
             <div class=card>
-                <img src="../images/${teammate.image}" alt="${teammate.name}">
                 <h3>${teammate.name}</h3> <br>
                 <div class=center>
                     <h4>${teammate.role}</h4> <br>
