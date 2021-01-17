@@ -70,7 +70,7 @@ div.card img {
 
 div.card:hover{
     border-color: #3d5afe;
-	box-shadow: 0 0 5px rgba(61,90,254,.5);
+    box-shadow: 0 0 5px rgba(61,90,254,.5);
 }
 
 div.card h3 {
@@ -113,7 +113,7 @@ div.imagebanner {
     padding: 0px;
     width: 100%;
     height: 100%;
-    
+
     background: url(images/student.jpg) no-repeat center;
     background-size: cover;
 }
@@ -203,7 +203,7 @@ button {
     background-color: #3d5afe;
 }
 
-.menu button:focus + ul {
+.menu button:focus + ul, ul:hover {
     opacity: 1;
     transform: translateY(0px);
 }
