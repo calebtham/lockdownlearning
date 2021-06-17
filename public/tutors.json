@@ -76,7 +76,7 @@
         "email": "kirstenMF2@gmail.com",
         "phoneNo": "07731843201",
         "role": "Tutor",
-        "price": "£16 per hour",
+        "price": "£18 per hour",
         "image": "blankpp.jpg"
     },
     {
@@ -97,6 +97,16 @@
         "phoneNo": "07947853966",
         "role": "Tutor",
         "price": "£20 per hour",
+        "image": "blankpp.jpg"
+    }
+    {
+        "name": "Tea Baines",
+        "subjects": "History, English, Spanish (IB or GCSE)",
+        "qualifications": "IB 776 (History, Spanish Literature and Language, English",
+        "email": "tea-baines22@gmail.com",
+        "phoneNo": "07346324323",
+        "role": "Tutor",
+        "price": "18 per hour",
         "image": "blankpp.jpg"
     }
 ]
