@@ -62,7 +62,7 @@
     {
         "name": "Sara Drummond-Curtis",
         "subjects": "Further Mathematics, Mathematics (A-Level or GCSE)",
-        "qualifications": "A*A*A",
+        "qualifications": "A*A*A (Further Mathematics, Mathematics, Geography)",
         "email": "saradrummondcurtis@gmail.com",
         "phoneNo": "07317384931",
         "role": "Tutor",
@@ -72,7 +72,7 @@
     {
         "name": "Kirsten Marner-Foley",
         "subjects": "Politics (A-Level or GCSE)",
-        "qualifications": "A*AA",
+        "qualifications": "A*AA (Politics, Sociology, History)",
         "email": "kirstenMF2@gmail.com",
         "phoneNo": "07731843201",
         "role": "Tutor",
@@ -82,7 +82,7 @@
     {
         "name": "Ali Tabba",
         "subjects": "Economics (A-Level or GCSE)",
-        "qualifications": "A*AAA",
+        "qualifications": "A*AAA (Further Mathematics, Mathematics, Economics, Computer Science)",
         "email": "ali.tabba1@gmail.com",
         "phoneNo": "07546456451",
         "role": "Tutor",
@@ -91,18 +91,18 @@
     },
     {
         "name": "James Law",
-        "subjects": "Economics (A-Level or GCSE)",
-        "qualifications": "A*A*A*A*",
+        "subjects": "Further Mathematics, Mathematics, Economics (A-Level or GCSE)",
+        "qualifications": "A*A*A*A* (Further Mathematics, Mathematics, Physics, Economics)",
         "email": "james-law23@gmail.com",
         "phoneNo": "07947853966",
         "role": "Tutor",
         "price": "£20 per hour",
         "image": "blankpp.jpg"
-    }
+    },
     {
         "name": "Tea Baines",
         "subjects": "History, English, Spanish (IB or GCSE)",
-        "qualifications": "IB 776 (History, Spanish Literature and Language, English",
+        "qualifications": "IB 776 (History, Spanish Literature and Language, English)",
         "email": "tea-baines22@gmail.com",
         "phoneNo": "07346324323",
         "role": "Tutor",
