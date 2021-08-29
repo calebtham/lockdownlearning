@@ -236,7 +236,7 @@ button {
     color: white;
 }
 
-.menu button:focus + ul, ul:hover {
+.menu button:focus + ul {
     opacity: 1;
     transform: translateY(0px);
 }
@@ -251,6 +251,7 @@ input[type=search].collapsing {
 	border: solid 1px #ccc;
 	padding: 9px 10px 9px 32px;
     width: 35%;
+    min-width: fit-content;
     max-width: 350px;
 	border-radius: 10em;
 	transition: all .5s;
@@ -259,6 +260,7 @@ input[type=search].collapsing:focus {
     background: #f5f5f5 url(../images/search-icon2.png) no-repeat 9px center;
     width: 70%;
     max-width: 650px;
+    min-width: fit-content;
 	background-color: #fff;
 	border-color: #3d5afe;
     box-shadow: 0 0 5px rgba(61,90,254,.5);
