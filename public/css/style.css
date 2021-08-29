@@ -267,3 +267,29 @@ input[type=search].collapsing:focus {
 input[type="search"].collapsing::-webkit-search-cancel-button {
     -webkit-appearance: none;
 }
+
+div.table {
+    width: fit-content;
+    margin: auto;
+    border: solid 1px #3d5afe;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(61,90,254,.5);
+}
+table {
+    border-collapse: collapse;
+}
+thead {
+    border-bottom: #bac5ff solid 1px;
+}
+td {
+    padding: 30px;
+    font-weight: bold;
+}
+td:first-child {
+    border-right: solid 1px #bac5ff;
+}
+thead td {
+    color: #2a3eb1;
+    font-weight: bold;
+    text-transform: uppercase;
+}
