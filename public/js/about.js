@@ -4,7 +4,7 @@ async function getTeammates() {
     const res = await fetch('/api', {
         method: 'POST'
     });
-    const tutors = await res.json();
+    const teammates = await res.json();
 
     let teammatesFiltered = teammates.filter(teammate => {
         const regex = new RegExp(`co-founder`, 'gi');
