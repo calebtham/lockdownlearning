@@ -5,8 +5,8 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <meta http-equiv="X-UA-Compatible" content="ie=edge" />
         
-        <link rel="stylesheet" type="text/css" href="../style.css">
-        <link rel="icon" href="../images/logo.png" type="image/icon type">
+        <link rel="stylesheet" type="text/css" href="../css/style.css">
+        <link rel="icon" href="../images/logo.png" type="image/icon">
 
         <title>Lockdown Learning</title>
     </head>
@@ -17,14 +17,14 @@
                 <div class="menu">
                     <button>MENU</button>
                     <ul>
-                        <li><a href="../">Home</a></li>
-                        <li><a href="../Tutors/">Our Tutors</a></li>
-                        <li><a href="../Register/">Register As A Tutor</a></li>
-                        <li><a href="../Contact/">Contact Us</a></li>
+                        <li onclick="window.location.href='../'">Home</li>
+                        <li onclick="window.location.href='../Tutors/'">Our Tutors</li>
+                        <li onclick="window.location.href='../Register/'">Register As A Tutor</li>
+                        <li onclick="window.location.href='../Contact/'">Contact Us</li>
                     </ul>
                 </div>
                 <div class=logo>
-                    <img src="../images/logo.png" width="50px" height="50px" alt="logo">
+                    <a href="../"><img src="../images/logo.png" width="50" height="50" alt="logo"></a>
                 </div>
             </div>
         </div>
@@ -32,7 +32,7 @@
         <div class=fixedspacer></div>
         <div class=medspacer></div>
 
-        <div class=center>
+        <div class=content>
             <h1>ABOUT</h1>
             <div class=smallspacer></div>
             <div class=constrict>
@@ -41,13 +41,14 @@
                 </p>
                 <div class=smallspacer></div>
                 <h3>OUR MANAGEMENT TEAM</h3>
-                
             </div>
         </div>
+
         <div class="grid" id="teammates"></div>
-        <script src="team.js"></script>
 
         <div class=imagebanner></div>
 
+        <script src="../js/util.js"></script>
+        <script src="../js/about.js"></script>
     </body>
 </html>
